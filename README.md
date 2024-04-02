@@ -1,3 +1,15 @@
+# Timkbd - Corne keyboard variant
+
+I've used the corne for quite some time, and I noticed that I was missing two essential keys on the main layer.
+On the left side I can not go without Esc, Tab, Shift, Ctrl.
+While on the right side, it's Backspace, {, ", Alt. 
+I am pressing Backspace a lot (even with Ctrl+Backspace), it needs to be bigger.
+
+I am not a pcb engineer, and I doubt I can bring it to life,
+but I want to initialize this project, so I can work on it over time.
+Also it seems better for me to have those external microcontroller from the V3 version,
+so I added those to the repository for reference.
+
 # Corne keyboard
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
