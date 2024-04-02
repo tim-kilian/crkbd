@@ -1,0 +1,6 @@
+[submodule "pcbs/corne-v3-cherry/pcb/kbd"]
+	path = pcbs/corne-v3-cherry/pcb/kbd
+	url = https://github.com/foostan/kbd
+[submodule "pcbs/corne-v3-light/pcb/kbd"]
+	path = pcbs/corne-v3-light/pcb/kbd
+	url = https://github.com/foostan/kbd
